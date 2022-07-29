@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente eu trabalho na área financeira
 - 🌱 Estudando NodeJS, TypeScript, AWS, Docker e etc..
-- 😄 Pronouns: Ele/Dele
 
 
 <div align="center">
