@@ -1,5 +1,5 @@
 ### Olá!! Bem-vindo!!
-### Eu sou o Lucas Carvalho
+### Eu sou o Lucas 
 
 - 🔭 Atualmente eu trabalho na área financeira
 - 🌱 Estudando NodeJS, TypeScript, AWS, Docker e etc..
